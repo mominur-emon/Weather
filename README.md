@@ -1,3 +1,13 @@
+# Weather
+This weather app updates city weather and weather widgets with full features.
+Using: React.js, JavaScript, Axios, HTML, CSS
+
+
+
+[Click here to see the Project](https://mominur-emon.github.io/Weather/)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
